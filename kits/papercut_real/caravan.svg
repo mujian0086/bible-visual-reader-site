@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 260" width="840" height="520">
+  <g stroke="#5a5042" stroke-width="1.5" stroke-linejoin="round">
+    <!-- Supporting figures use adult proportions and quiet paper-cut profiles. -->
+    <g transform="translate(63 0)">
+      <path d="M-11 56q0-17 13-17 13 2 12 17l5 7-7 4-3 13-14-2Z" fill="#a98060"/>
+      <path d="M-12 54q-3-19 14-21 18 2 15 21L5 49-9 58Z" fill="#766953"/>
+      <path d="M-8 78 9 78 20 94 17 138 23 209-24 209-17 143-19 97Z" fill="#68715d"/>
+      <path d="M-4 83-9 152-17 205M8 91 12 202" fill="none" stroke="#92937c"/>
+      <path d="m-18 96-12 62 4 23 6-1 1-22 13-48M17 97l13 55-3 25-7 1-1-23-14-48" fill="#a98060"/>
+      <path d="m-13 210 1 22 14 1 0-5-6-3 1-15M8 210l-1 21 16 1-1-6-8-3 3-13" fill="#80624c"/>
+      <path d="m-16 127 32 1" fill="none" stroke="#514e3d" stroke-width="4"/>
+    </g>
+    <g fill="#a29985">
+      <path d="m132 143 18-15 84 2 19-36 12-13 7 5-8 35-8 34-21 13-79-1-20-9Z"/>
+      <path d="m258 87-1-34 6 1 5 29 8-29 5 3-6 34 8 12-5 7-16-7Z"/>
+      <path d="m150 161-5 60 7 5 6-2 2-60M170 165l4 58 9 1 0-6-3-53M224 164l-4 58 9 2 3-62M242 158l9 62 10 3 1-6-9-63"/>
+      <path d="m134 144-10 42-5 4 1-18 9-31" fill="#514c43"/>
+      <path d="m150 131 5 21 74-1 6-20Z" fill="#77735e"/>
+      <path d="m170 114 43-2 10 27-56 0Z" fill="#ad9273"/>
+      <path d="m187 114 0 25M172 123l43 0" fill="none" stroke="#6c5b46" stroke-width="3"/>
+    </g>
+    <g transform="translate(337 0)">
+      <path d="M-12 59q-1-17 12-18 14 0 14 16l5 7-7 4-4 11-14-1Z" fill="#a67e5d"/>
+      <path d="M-13 53q-1-20 15-22 18 5 15 24L6 47-9 58Z" fill="#c1af8d"/>
+      <path d="m-7 78 16 1 13 17-9 53 11 62-49 0 11-64-8-51Z" fill="#887b6a"/>
+      <path d="m-6 81-2 117M10 87l5 116" fill="none" stroke="#b3a48c"/>
+      <path d="m-19 99-12 58 4 22 7 0 0-22 12-48M19 99l12 53-2 24-7 2-3-24-13-46" fill="#a67e5d"/>
+      <path d="m-14 211 0 21 15 0 0-5-8-4 1-12M8 211l-2 20 18 0-1-5-9-3 2-12" fill="#765c48"/>
+      <path d="m-16 128 31 0" fill="none" stroke="#5a5146" stroke-width="4"/>
+    </g>
+  </g>
+</svg>

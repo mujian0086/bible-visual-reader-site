@@ -1,0 +1,99 @@
+{
+  "id": "chibi",
+  "label": "Q 版纸雕",
+  "size": [
+    200,
+    260
+  ],
+  "foot": [
+    100,
+    250
+  ],
+  "characters": {
+    "abraham": {
+      "joints": {
+        "head": [
+          100,
+          140
+        ],
+        "armF": [
+          121,
+          148
+        ],
+        "armB": [
+          81,
+          148
+        ],
+        "legF": [
+          107,
+          192
+        ],
+        "legB": [
+          93,
+          192
+        ]
+      },
+      "parts": {
+        "head": "abr_head.svg",
+        "torso": "abr_body.svg",
+        "armF": "abr_armF.svg",
+        "armB": "abr_armB.svg",
+        "legF": "abr_legF.svg",
+        "legB": "abr_legB.svg"
+      },
+      "faces": {
+        "calm": "face_calm.svg",
+        "smile": "face_smile.svg",
+        "worried": "face_worried.svg",
+        "surprised": "face_surprised.svg",
+        "pray": "face_pray.svg",
+        "lookup": "face_lookup.svg"
+      },
+      "blink": "face_blink.svg",
+      "wood": null
+    },
+    "isaac": {
+      "joints": {
+        "head": [
+          100,
+          140
+        ],
+        "armF": [
+          121,
+          148
+        ],
+        "armB": [
+          81,
+          148
+        ],
+        "legF": [
+          107,
+          192
+        ],
+        "legB": [
+          93,
+          192
+        ]
+      },
+      "parts": {
+        "head": "isa_head.svg",
+        "torso": "isa_body.svg",
+        "armF": "isa_armF.svg",
+        "armB": "isa_armB.svg",
+        "legF": "isa_legF.svg",
+        "legB": "isa_legB.svg"
+      },
+      "faces": {
+        "calm": "face_calm.svg",
+        "smile": "face_smile.svg",
+        "worried": "face_worried.svg",
+        "surprised": "face_surprised.svg",
+        "pray": "face_pray.svg",
+        "lookup": "face_lookup.svg"
+      },
+      "blink": "face_blink.svg",
+      "wood": "isa_wood.svg"
+    }
+  },
+  "scenery": "chibi"
+}

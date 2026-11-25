@@ -1,0 +1,95 @@
+{
+  "props": {"caravan":"caravan.svg"},
+  "displayScale": 1.3,
+  "id": "papercut_real",
+  "label": "写实纸雕",
+  "size": [
+    1024,
+    1536
+  ],
+  "foot": [
+    500,
+    1412
+  ],
+  "characters": {
+    "abraham": {
+      "joints": {
+        "head": [
+          540,
+          421
+        ],
+        "armF": [
+          482,
+          464
+        ],
+        "armB": [
+          535,
+          464
+        ],
+        "legF": [
+          476,
+          838
+        ],
+        "legB": [
+          529,
+          838
+        ]
+      },
+      "parts": {
+        "armF": "abraham_armF.webp",
+        "legB": "abraham_legB.webp",
+        "armB": "abraham_armB.webp",
+        "legF": "abraham_legF.webp",
+        "torso": "abraham_torso.webp"
+      },
+      "faces": {
+        "lookup": "abraham_head_lookup.webp",
+        "worried": "abraham_head_worried.webp",
+        "smile": "abraham_head_smile.webp",
+        "pray": "abraham_head_pray.webp",
+        "surprised": "abraham_head_surprised.webp",
+        "calm": "abraham_head_calm.webp"
+      }
+    },
+    "isaac": {
+      "joints": {
+        "head": [
+          490,
+          606
+        ],
+        "armF": [
+          472,
+          661
+        ],
+        "armB": [
+          519,
+          665
+        ],
+        "legF": [
+          475,
+          960
+        ],
+        "legB": [
+          523,
+          960
+        ]
+      },
+      "parts": {
+        "armB": "isaac_armB.webp",
+        "armF": "isaac_armF.webp",
+        "legF": "isaac_legF.webp",
+        "torso": "isaac_torso.webp",
+        "legB": "isaac_legB.webp"
+      },
+      "faces": {
+        "calm": "isaac_head_calm.webp",
+        "smile": "isaac_head_smile.webp",
+        "worried": "isaac_head_worried.webp",
+        "pray": "isaac_head_pray.webp",
+        "surprised": "isaac_head_surprised.webp",
+        "lookup": "isaac_head_lookup.webp"
+      }
+    }
+  },
+  "scenery": "chibi"
+}
